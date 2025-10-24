@@ -1,0 +1,41 @@
+
+body{
+    background-color: lightblue;
+}
+
+
+h1{
+
+    
+    font-size: 4em;
+    text-align: center;
+}
+
+
+
+h2{
+    background-color: lightsalmon;
+    font-style: italic;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+
+pre{
+ font-size: larger;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-transform: capitalize;
+}
+
+
+pre strong{
+    color: red;
+}
+
+p{
+    font-size: 3em;
+    text-align: center;
+    font-weight: bold;
+    color: darkblue;
+}
